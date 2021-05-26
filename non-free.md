@@ -30,6 +30,7 @@
 
 ## File Sharing and Synchronization
 
+- [Yetishare](https://yetishare.com) `⊘ Proprietary` - A powerful file hosting script with support for Amazon S3, Wasabi, Backblaze, local, direct and SFTP storage. ([Demo](https://fhscript.com)) `PHP`
 - [Resilio Sync](https://www.resilio.com/) `⊘ Proprietary` - Resilio Sync by Resilio, Inc is a proprietary peer-to-peer file synchronisation tool.
 - [Drive Virtual](http://www.drivevirtual.com/) `⊘ Proprietary` - With Drive Virtual you can sync, backup and share your files privately with your own FTP (SFTP) server or account.
 - [Dropcenter](http://projet.idleman.fr/dropcenter/) - Upload files by simple drag-n-drop. ([Source Code](https://github.com/ldleman/dropcenter)) `CCBYNCSAv3` `PHP`
@@ -75,6 +76,7 @@
 - [Koken](http://koken.me/) `⊘ Proprietary` - Content management and web site publishing for photographers. `PHP`
 - [Lomorage](https://lomorage.com/) `⊘ Proprietary` - Google photo alternative via simple self-hosting software. Supported clients: iOS, Android, Web, MAC/Windows. Backend can run on Raspberry pi, Armbian, MAC/Windows/Linux `GO`
 - [PhotoStructure](https://photostructure.com/) `⊘ Proprietary` - All your family's photos and videos automatically organized into a fun and beautiful website. Runs via Docker, NodeJS, or native desktop installers. `NodeJS`
+- [Reservo](https://reservo.co) `⊘ Proprietary` - A scalable image hosting script with support for CDNs, paid account upgrades, advertising spots and drag & drop upload. ([Demo](https://demo.reservo.co/)) `PHP`
 - [Single File PHP Gallery](http://sye.dk/sfpg/) `⊘ Proprietary` - is a web gallery in one single PHP file. `PHP` 
 
   
@@ -108,6 +110,7 @@
 - [BitBucket Server](https://www.atlassian.com/software/bitbucket/server) `⊘ Proprietary` - An enterprise-level Git solution similar to GitLab `Java`
   
 ## Ticketing
+- [Deskpro](https://www.deskpro.com/) `⊘ Proprietary` - On-Premise helpdesk software that includes email, chat, voice & helpcentre publishing. Full visible source code and API.
 - [Full Help](https://www.fullhelp.com/en/) `⊘ Proprietary` - Simple, easy to use help desk & knowledge base software. Custom branding, custom themes, restful API, communication channels, multi-company support, multi-language support, and much more! At least 1 new release per month. [Changelog](https://www.fullhelp.com/en/changelog) `PHP`
 - [Jitbit Helpdesk](https://www.jitbit.com/helpdesk/) `⊘ Proprietary` - Self-hosted help desk software - simple but powerful. ([Demo](https://www.jitbit.com/hosted-helpdesk/trial/)) `ASP.NET`
 - [SupportPal](https://www.supportpal.com/) `⊘ Proprietary` - Powerful help desk software - easy, fast and intuitive. ([Demo](http://demo.supportpal.com/)) `PHP`
